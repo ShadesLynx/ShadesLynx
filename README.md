@@ -172,23 +172,6 @@ A website that showcases the **historic and tourist sites of Tunisia**.
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-  <!-- Stats & Streak Side-by-Side -->
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=ShadesLynx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=ShadesLynx&theme=tokyonight&hide_border=false" />
-
-  <br/><br/>
-
-  <!-- Most Used Languages -->
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShadesLynx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
----
-
 <!-- Animated Footer Waving Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer" width="100%" />
 
