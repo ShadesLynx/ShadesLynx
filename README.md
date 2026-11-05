@@ -2,7 +2,7 @@
 
   <!-- Typing Animation Header -->
   <a href="https://github.com/ShadesLynx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Agents+%26+LangGraph+Enthusiast;ISET+Charguia+(DSI);Looking+for+a+PFE+Internship+2026%2F2027" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Agents+%26+LangGraph+Enthusiast;ISET+Charguia+(DSI);Looking+for+a+PFE+Internship+2026%2F2027" alt="Typing SVG" />
   </a>
 
   <br/><br/>
